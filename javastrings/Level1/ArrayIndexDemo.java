@@ -24,8 +24,6 @@ public class ArrayIndexDemo {
             names[i] = scanner.next();
         }
 
-        // generateException(names); // Uncomment to see the exception
-
         handleException(names);
         scanner.close();
     }
