@@ -22,6 +22,8 @@ public class StringLengthFinder {
             }
         } catch (Exception e) {
             return count;
-        }
+          
+        } 
     }
+   
 }
